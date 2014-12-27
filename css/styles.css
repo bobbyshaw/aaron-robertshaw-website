@@ -1,0 +1,64 @@
+body {
+  	background: #EEEEEE;
+  	max-width: 1200px;
+}
+
+h1 {
+	color: blue;
+	font-size: 70px;
+	text-align: center;
+}
+
+.family {
+	display: block;
+	clear: both;
+	margin: 20px 40px;
+}
+
+.photo {
+	border: 4px dashed red;
+	float: left;
+	margin: 0 40px;
+}
+
+.photo-description {
+	float: left;
+}
+
+.bio {
+	clear: left;
+}
+
+.football {
+	font-size: 60px;
+	text-align: center;
+}
+
+.heart {
+	color: red;
+	font-size: 80px;
+}
+
+td
+th {
+	padding: 10px;
+}
+
+.top td {
+	background: green;
+	color: white;
+}
+
+.bottom td {
+	background: red;
+	color: white;
+}
+
+.chelsea {
+	background-color: blue;
+	color: white;
+}
+
+.chelsea h1 {
+	color: white;
+}
